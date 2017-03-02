@@ -1,0 +1,9 @@
+dependencies:
+ - name: jQuery
+   version: 1.11.2
+   src: htmlwidgets/lib/jQuery
+   script: jquery.min.js
+ - name: egg
+   version: 1.0
+   src: htmlwidgets/lib/eggjs
+   script: egg.js
