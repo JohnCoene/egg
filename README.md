@@ -10,7 +10,7 @@ You can install egg from github with:
 
 ```R
 # install.packages("devtools")
-devtools::install_github("egg/JohnCoene")
+devtools::install_github("JohnCoene/egg")
 ```
 
 ## [Live Example](john-coene.com/egg)
