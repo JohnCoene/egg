@@ -22,5 +22,3 @@ When the user strikes the keys "type" in your document the egg will appear.
 ```R
 egg(c("t", "y", "p", "e"), "EASTER EGG", imegg = "https://upload.wikimedia.org/wikipedia/commons/5/54/Bg-easter-eggs.jpg")
 ```
-
-#itsNotUseless
