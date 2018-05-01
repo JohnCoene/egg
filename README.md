@@ -13,7 +13,7 @@ You can install egg from github with:
 devtools::install_github("JohnCoene/egg")
 ```
 
-## [Live Example](http://john-coene.com/egg)
+## [Live Example](http://john-coene.com/post/egg/)
 
 ## Example
 
